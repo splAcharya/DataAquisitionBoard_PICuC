@@ -1,0 +1,30 @@
+H:\ece_422\dotnet_examples\Command_Interface\bin\CmdInterface_common.dll
+H:\ece_422\dotnet_examples\Command_Interface\bin\CmdInterface_common.pdb
+H:\ece_422\dotnet_examples\Command_Interface\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+H:\ece_422\dotnet_examples\Command_Interface\Common\obj\Debug\CmdInterface_common.dll
+H:\ece_422\dotnet_examples\Command_Interface\Common\obj\Debug\CmdInterface_common.pdb
+H:\ece_422\dotnet_examples\Command_Interface\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\bin\CmdInterface_common.dll
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\bin\CmdInterface_common.pdb
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Common\obj\Debug\CmdInterface_common.dll
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Common\obj\Debug\CmdInterface_common.pdb
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\bin\CmdInterface_common.dll
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\bin\CmdInterface_common.pdb
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Common\obj\Debug\CmdInterface_common.dll
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Common\obj\Debug\CmdInterface_common.pdb
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\bin\CmdInterface_common.dll
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\bin\CmdInterface_common.pdb
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Common\obj\Debug\CmdInterface_common.dll
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Common\obj\Debug\CmdInterface_common.pdb
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\bin\CmdInterface_common.dll
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\bin\CmdInterface_common.pdb
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Common\obj\Debug\CmdInterface_common.dll
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Common\obj\Debug\CmdInterface_common.pdb

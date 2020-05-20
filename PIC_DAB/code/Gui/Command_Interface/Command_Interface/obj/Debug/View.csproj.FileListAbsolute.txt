@@ -1,0 +1,55 @@
+H:\ece_422\dotnet_examples\Command_Interface\Command_Interface\obj\Debug\View.csprojAssemblyReference.cache
+H:\ece_422\dotnet_examples\Command_Interface\Command_Interface\obj\Debug\CmdInterface.FormMain.resources
+H:\ece_422\dotnet_examples\Command_Interface\Command_Interface\obj\Debug\CmdInterface.View.Properties.Resources.resources
+H:\ece_422\dotnet_examples\Command_Interface\Command_Interface\obj\Debug\View.csproj.GenerateResource.cache
+H:\ece_422\dotnet_examples\Command_Interface\Command_Interface\obj\Debug\View.csproj.CoreCompileInputs.cache
+H:\ece_422\dotnet_examples\Command_Interface\bin\CmdInterface_view.exe.config
+H:\ece_422\dotnet_examples\Command_Interface\bin\CmdInterface_view.exe
+H:\ece_422\dotnet_examples\Command_Interface\bin\CmdInterface_view.pdb
+H:\ece_422\dotnet_examples\Command_Interface\Command_Interface\obj\Debug\View.csproj.CopyComplete
+H:\ece_422\dotnet_examples\Command_Interface\Command_Interface\obj\Debug\CmdInterface_view.exe
+H:\ece_422\dotnet_examples\Command_Interface\Command_Interface\obj\Debug\CmdInterface_view.pdb
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\bin\CmdInterface_view.exe.config
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\bin\CmdInterface_view.exe
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\bin\CmdInterface_view.pdb
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Command_Interface\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Command_Interface\obj\Debug\CmdInterface.FormMain.resources
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Command_Interface\obj\Debug\CmdInterface.View.Properties.Resources.resources
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Command_Interface\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Command_Interface\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Command_Interface\obj\Debug\View.csproj.CopyComplete
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Command_Interface\obj\Debug\CmdInterface_view.exe
+C:\Users\T935\OneDrive - St. Cloud State University\Labs\Lab 10 - DAQ\Command_Interface\Command_Interface\obj\Debug\CmdInterface_view.pdb
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\bin\CmdInterface_view.exe.config
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\bin\CmdInterface_view.exe
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\bin\CmdInterface_view.pdb
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Command_Interface\obj\Debug\View.csprojAssemblyReference.cache
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface.FormMain.resources
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface.View.Properties.Resources.resources
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Command_Interface\obj\Debug\View.csproj.GenerateResource.cache
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Command_Interface\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Command_Interface\obj\Debug\View.csproj.CopyComplete
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface_view.exe
+C:\School\ECE_422\ECE422_FinalProject\lab-10\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface_view.pdb
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\bin\CmdInterface_view.exe.config
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\bin\CmdInterface_view.exe
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\bin\CmdInterface_view.pdb
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\View.csprojAssemblyReference.cache
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface.FormMain.resources
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface.View.Properties.Resources.resources
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\View.csproj.GenerateResource.cache
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\View.csproj.CopyComplete
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface_view.exe
+C:\School\ECE_422\ECE422_FinalProject\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface_view.pdb
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\bin\CmdInterface_view.exe.config
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\bin\CmdInterface_view.exe
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\bin\CmdInterface_view.pdb
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\View.csprojAssemblyReference.cache
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface.FormMain.resources
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface.View.Properties.Resources.resources
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\View.csproj.GenerateResource.cache
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\View.csproj.CopyComplete
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface_view.exe
+C:\School\ECE_422\ECE422_PRIVATE\lab-10\lab-10\BaseLine\Gui\Command_Interface\Command_Interface\obj\Debug\CmdInterface_view.pdb
