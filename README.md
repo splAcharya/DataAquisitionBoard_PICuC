@@ -4,5 +4,5 @@ Data Aquisition Board Designed using PIC microcontroller. Firmware includes RTOS
 BREADBOARD
 ![alt_text](https://github.com/splAcharya/DataAquisitionBoard_PICuC/blob/master/BreadBoard.jpg)
 
-Graphical User Interface
+\n Graphical User Interface
 ![alt_text](https://github.com/splAcharya/DataAquisitionBoard_PICuC/blob/master/GUI.png)
